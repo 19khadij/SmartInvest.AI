@@ -21,8 +21,11 @@ SmartInvest.AI will provide accessible insights into various investment options,
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Set up your database configurations in `config.py`.
-5. Run the application using `python main.py`.
+4. Install ReactJs
+5. Install the library `npm axios`
+6. Set up your database configurations in `config.py`.
+7. Run the application using `python main.py`.
+   
 
 ## Usage
 1. Build Image using `docker build -t flask_app .`.
